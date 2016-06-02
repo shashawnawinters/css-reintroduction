@@ -1,3 +1,48 @@
 body	{
+	padding: 0;
+	margin: 0;
 	background-color: pink;
+}
+
+li	{
+	color: purple;
+}
+
+#mouse	{
+	color: brown;
+}
+
+.bird	{
+	color: orange;
+	font-style: italic;
+}
+
+.mammal	{
+	color: blue;
+	font-weight: bold; 
+}
+
+.fish	{
+	color: yellow;
+	text-decoration: underline;
+}
+#mouse	{
+	color: green;
+}
+
+h1 {
+	border-style: dotted;
+	border-color: pink;
+}
+
+header	{
+	background-color: red;
+	width: 100%;
+}
+
+footer	{
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background-color: red;
 }
